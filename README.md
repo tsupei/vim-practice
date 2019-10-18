@@ -9,6 +9,7 @@ Vim is known as a very useful tool, I use this repository to record instructions
 └── Ultisnips
 ```
 
+
 `.vimrc` is the setting I used for vim. You can customize it! Just for something for template 
 
 `Ultisnips` includes examples of my snippets settings.
@@ -42,7 +43,7 @@ In this repository, I will go througth a list of concepts including
 
 I believe practice is much more important than theory(or syntax). So I prepare some small projects for us to learn quickly
 
-1. Laern basic vim commands
+1. Learn basic vim commands
 2. Define useful commands in `.vimrc`
 3. Define snippets for markdown
 
